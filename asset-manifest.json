@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reacr-w25/static/css/main.0e963de9.css",
+    "main.js": "/Reacr-w25/static/js/main.2717f474.js",
+    "index.html": "/Reacr-w25/index.html",
+    "main.0e963de9.css.map": "/Reacr-w25/static/css/main.0e963de9.css.map",
+    "main.2717f474.js.map": "/Reacr-w25/static/js/main.2717f474.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e963de9.css",
+    "static/js/main.2717f474.js"
+  ]
+}
