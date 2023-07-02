@@ -1,0 +1,10 @@
+* {
+  text-align: center;
+}
+button {
+border: solid 80% green;
+color: rgb(111, 13, 150);
+background-color: rgba(203, 174, 231, 0.918);
+width: 10%;
+font-size: 100%;
+}
